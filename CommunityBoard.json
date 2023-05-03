@@ -1,15 +1,15 @@
 {
   "FeaturedPlayer": {
     "Id": 69,
-    "TitleOverride": "Featured gay Player",
-    "UrlOverride": "https://media.discordapp.net/attachments/1041777843811659868/1102985787764658236/th.png?width=422&height=422"
+    "TitleOverride": "Featured Lack of Player",
+    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "FeaturedRoomGroup": {
-    "Name": "Gay Rooms",
+    "Name": "November Highlights",
     "FeaturedRooms": [
       {
         "RoomName": "Crescendo",
-        "RoomId": 1,
+        "RoomId": 10,
         "ImageName": "Crescendo.png"
       },
       {
@@ -20,8 +20,8 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "OG Fishies is gay yes",
-    "MoreInfoUrl": "https://media.discordapp.net/attachments/1041777843811659868/1102985787764658236/th.png?width=422&height=422"
+    "Message": "Check out my 2020 progress!",
+    "MoreInfoUrl": "https://discord.com/channels/838205730091433985/1041843344097157150"
   },
   "InstagramImages": [
     {
@@ -76,25 +76,25 @@
   ],
   "Videos": [
     {
-      "BlobName": "3.mp4",
-      "Title": "idk",
+      "BlobName": "real.mp4",
+      "Title": "CoffeeVault for 2022???",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "2.mp4",
-      "Title": "Top G",
+      "BlobName": "u.webm",
+      "Title": "November 15th",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=4SfzjECEiaM
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "1.mp4",
-      "Title": "300 black men for only 2 pounds",
+      "BlobName": "deez.mp4",
+      "Title": "When the imposter is sus",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "",
-      "SourceUrl": "https://www.youtube.com/shorts/3JQzGDaherU"
+      "ThumbnailBlobName": "Community/Videos/deez.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
 }
