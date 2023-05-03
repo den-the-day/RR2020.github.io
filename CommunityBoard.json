@@ -1,8 +1,8 @@
 {
   "FeaturedPlayer": {
     "Id": 69,
-    "TitleOverride": "Featured Lack of Player",
-    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "TitleOverride": "Featured gay Player",
+    "UrlOverride": "https://media.discordapp.net/attachments/1041777843811659868/1102985787764658236/th.png?width=422&height=422"
   },
   "FeaturedRoomGroup": {
     "Name": "November Highlights",
@@ -21,7 +21,7 @@
   },
   "CurrentAnnouncement": {
     "Message": "OG Fishies is gay yes",
-    "MoreInfoUrl": "https://discord.com/channels/838205730091433985/1041843344097157150"
+    "MoreInfoUrl": ""
   },
   "InstagramImages": [
     {
@@ -93,7 +93,7 @@
       "BlobName": "deez.mp4",
       "Title": "300 black men for only 2 pounds",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "Community/Videos/deez.png",
+      "ThumbnailBlobName": "https://opengraph.githubassets.com/f65a5558430013311afd581b97d9547082f72788d512e70e81ae19ca2c7bf3da/id-for-game/id-for-game.github.io",
       "SourceUrl": "https://www.youtube.com/shorts/3JQzGDaherU"
     }
   ]
