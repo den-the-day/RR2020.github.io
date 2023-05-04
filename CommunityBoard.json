@@ -1,11 +1,11 @@
 {
   "FeaturedPlayer": {
-    "Id": 69,
-    "TitleOverride": "Featured Lack of Player",
+    "Id": 1,
+    "TitleOverride": "Featured cool Player",
     "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "FeaturedRoomGroup": {
-    "Name": "November Highlights",
+    "Name": "we like men",
     "FeaturedRooms": [
       {
         "RoomName": "Crescendo",
@@ -20,8 +20,8 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "Check out my 2020 progress!",
-    "MoreInfoUrl": "https://discord.com/channels/838205730091433985/1041843344097157150"
+    "Message": "Thx to CoffeeMan#2926 for the server",
+    "MoreInfoUrl": ""
   },
   "InstagramImages": [
     {
@@ -76,24 +76,24 @@
   ],
   "Videos": [
     {
-      "BlobName": "real.mp4",
-      "Title": "CoffeeVault for 2022???",
+      "BlobName": "3.mp4",
+      "Title": "look at my new car ",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "u.webm",
-      "Title": "November 15th",
+      "BlobName": "2.mp4",
+      "Title": "Idk",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "deez.mp4",
-      "Title": "When the imposter is sus",
+      "BlobName": "1.mp4",
+      "Title": "the top G",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "Community/Videos/deez.png",
+      "ThumbnailBlobName": "Community/Videos/1.jpg",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
