@@ -23,6 +23,57 @@
     "Message": "Dev Mode",
     "MoreInfoUrl": ""
   },
+  "InstagramImages": [
+    {
+      "ImageName": "Community/Instagram/Welcome.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/coachgun.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/beer.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/buy now.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/game.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/our.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/villagersex.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/what it cost.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/PVP.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/witch bitch.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/Fuck you 2022.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/SquadWard.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    }
+    
+  ],
   "Videos": [
     {
       "BlobName": "4d785fe9f3034b799aad869bfadb7664",
@@ -32,15 +83,15 @@
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "1.mov",
-      "Title": "rocket league",
+      "BlobName": "3df61ec3bd7e4c7c8782c33669c2c4b8",
+      "Title": "test new api stuff ig 2",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "1.mp4",
-      "Title": "the top G",
+      "BlobName": "9f436044e0814997b883b1851ae8ab66",
+      "Title": "test new api stuff ig 3",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "Community/Videos/1.jpg",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
