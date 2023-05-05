@@ -1,0 +1,49 @@
+{
+  "FeaturedPlayer": {
+    "Id": 1,
+    "TitleOverride": "Featured cool Player",
+    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "FeaturedRoomGroup": {
+    "Name": "we like men",
+    "FeaturedRooms": [
+      {
+        "RoomName": "Crescendo",
+        "RoomId": 10,
+        "ImageName": "Crescendo.png"
+      },
+      {
+        "RoomName": "Bowling",
+        "RoomId": 19,
+        "ImageName": "bowling.png"
+      }
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "Dev Mode",
+    "MoreInfoUrl": ""
+  },
+  "Videos": [
+    {
+      "BlobName": "4d785fe9f3034b799aad869bfadb7664",
+      "Title": "test new api stuff ig",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "IDK.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "BlobName": "1.mov",
+      "Title": "rocket league",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "IDK.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "BlobName": "1.mp4",
+      "Title": "the top G",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "Community/Videos/1.jpg",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}
